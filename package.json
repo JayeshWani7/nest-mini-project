@@ -2,7 +2,7 @@
   "name": "nestjs-graphql-mongodb-crud",
   "version": "1.0.0",
   "description": "NestJS GraphQL CRUD application with MongoDB Atlas integration",
-  "author": "Your Name",
+  "author": "Jayesh Wani",
   "private": true,
   "license": "MIT",
   "scripts": {
